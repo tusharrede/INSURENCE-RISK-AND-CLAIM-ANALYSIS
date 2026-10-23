@@ -53,3 +53,6 @@ This dashboard simplifies insurance data analysis by bringing important metrics 
 
 ## Conclusion
 The Insurance Risk and Claim Analysis Dashboard demonstrates the use of Power BI for transforming insurance data into meaningful visual insights. It showcases data visualization, KPI reporting, category-wise analysis, and interactive reporting skills relevant to Data Analyst and MIS Executive roles.
+
+## Screenshots/Demos: 
+file:///C:/Users/OTS/OneDrive/Pictures/Screenshots%201/Insurence_Claim_Dashboard.png
